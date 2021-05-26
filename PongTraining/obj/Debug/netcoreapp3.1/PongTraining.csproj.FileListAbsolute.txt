@@ -1,0 +1,11 @@
+D:\Crossarch\Other Files\MVS\PongTraining\bin\Debug\netcoreapp3.1\PongTraining.exe
+D:\Crossarch\Other Files\MVS\PongTraining\bin\Debug\netcoreapp3.1\PongTraining.deps.json
+D:\Crossarch\Other Files\MVS\PongTraining\bin\Debug\netcoreapp3.1\PongTraining.runtimeconfig.json
+D:\Crossarch\Other Files\MVS\PongTraining\bin\Debug\netcoreapp3.1\PongTraining.runtimeconfig.dev.json
+D:\Crossarch\Other Files\MVS\PongTraining\bin\Debug\netcoreapp3.1\PongTraining.dll
+D:\Crossarch\Other Files\MVS\PongTraining\bin\Debug\netcoreapp3.1\PongTraining.pdb
+D:\Crossarch\Other Files\MVS\PongTraining\obj\Debug\netcoreapp3.1\PongTraining.csprojAssemblyReference.cache
+D:\Crossarch\Other Files\MVS\PongTraining\obj\Debug\netcoreapp3.1\PongTraining.AssemblyInfoInputs.cache
+D:\Crossarch\Other Files\MVS\PongTraining\obj\Debug\netcoreapp3.1\PongTraining.AssemblyInfo.cs
+D:\Crossarch\Other Files\MVS\PongTraining\obj\Debug\netcoreapp3.1\PongTraining.dll
+D:\Crossarch\Other Files\MVS\PongTraining\obj\Debug\netcoreapp3.1\PongTraining.pdb
